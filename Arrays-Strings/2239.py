@@ -37,3 +37,6 @@ print(closest_to_zero([0, 0])) # 0
 
 # First step is to iteate throught the array and find the closest number to zero
 # Second step: stores the closest number to zero in a variable called closest
+
+
+
