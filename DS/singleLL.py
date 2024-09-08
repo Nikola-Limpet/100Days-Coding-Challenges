@@ -53,21 +53,20 @@ def search(head, val):
       current = current.next  
   return False
 
-print(search(head, 2))
+# print(search(head, 2))
 
 
 
 
 
-
-class SinglyLinkedList:
-  """ 
-    implement:
-    get_size()
-    find(data)
-    add_Front(data) O(1)
-    add_node_at_position()
-    remove(data)
-  """
-  def __init__(self):
-    pass
+# class SinglyLinkedList:
+#   """ 
+#     implement:
+#     get_size()
+#     find(data)
+#     add_Front(data) O(1)
+#     add_node_at_position()
+#     remove(data)
+#   """
+#   def __init__(self):
+#     pass
