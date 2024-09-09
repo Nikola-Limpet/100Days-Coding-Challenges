@@ -67,6 +67,10 @@ def search(head, val):
 #     add_Front(data) O(1)
 #     add_node_at_position()
 #     remove(data)
+
+#     insert_at_tail(head, data)
+#     insert_at_head(llsit, data)
+
 #   """
 #   def __init__(self):
 #     pass
