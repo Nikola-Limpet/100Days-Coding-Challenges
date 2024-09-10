@@ -23,3 +23,16 @@ def largestConcatenate(numbers):
     return result
 
 print(largestConcatenate([1,2,4,5]))
+
+
+
+# if money == 0:
+#     return 0
+#   min_coins = float('inf')
+#   for coin in denominations:
+#     if money >= coin:
+#       num_coins = 1 + change(money - coin, denominations)
+#       min_coins = min(min_coins, num_coins)
+#   return min_coins
+
+# print(change(8, [1, 4, 7]))
